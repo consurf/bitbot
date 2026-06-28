@@ -1,5 +1,6 @@
 {
     "name": "Virtual Pet",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "core": "*",
